@@ -1,102 +1,116 @@
 <p align="center">
-    <img src="./assets/banner.svg" alt="Banner"/>
+    <img src="./assets/banner.svg" alt="Yash Patkar Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Yash Patkar</h1>
+<h1 align="center">Hi 👋, I'm Yash Patkar</h1>
 
 <h3 align="center">
 AI Software Engineer • Backend Engineer • Product Engineer
 </h3>
 
 <p align="center">
-Building AI-powered backend systems, autonomous agents and production-ready software.
+Building AI-powered backend systems, autonomous agents, and production-ready software.
+</p>
+
+<p align="center">
+    <a href="https://yashpatkar.tech">Portfolio</a> •
+    <a href="https://linkedin.com/in/yash-patkar">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Backend Engineer currently working on AI-powered products.
+I'm a Software Engineer building AI-powered applications and scalable backend systems.
 
-I enjoy building production-grade backend systems, AI agents, internal developer tools, APIs and scalable software.
+Currently, I work on production software where AI-assisted development, backend engineering, API design, and product development are part of my daily work.
 
-### Current Focus
+My primary interests include:
 
 - 🤖 AI Agents
-- 📚 Agentic RAG
-- ⚙️ Backend Architecture
-- ☁️ AWS
-- 🐳 Docker
-- 🚀 Production Systems
+- 🧠 Agentic RAG
+- 🐍 Python Backend Development
+- ⚙️ Scalable System Design
+- 🚀 Product Engineering
+- ☁️ Cloud Infrastructure
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Current Role
 
-### Languages
+**Software Engineer**
 
-Python • SQL • JavaScript • Bash
-
-### Backend
-
-Django
-
-Django REST Framework
-
-FastAPI
-
-### AI
-
-LangChain
-
-LangGraph
-
-OpenAI
-
-Claude
-
-Model Context Protocol (MCP)
-
-### Infrastructure
-
-PostgreSQL
-
-Redis
-
-Docker
-
-AWS
-
-Linux
-
-GitHub Actions
+Building production AI-powered applications using Python, Django, REST APIs, modern AI frameworks, and cloud technologies.
 
 ---
 
-## 💼 Experience
+# 🛠 Tech Stack
 
-**Junior Backend Engineer**
+## Languages
 
-Working on production AI-powered software using Python, Django, REST APIs and modern AI frameworks.
+- Python
+- SQL
+- JavaScript
+- Bash
 
 ---
 
-## 🚀 Featured Projects
+## Backend
+
+- Django
+- Django REST Framework
+- FastAPI
+
+---
+
+## AI
+
+- LangChain
+- LangGraph
+- OpenAI API
+- Claude API
+- Model Context Protocol (MCP)
+- Agentic RAG
+
+---
+
+## Infrastructure
+
+- PostgreSQL
+- Redis
+- Docker
+- AWS
+- Linux
+- GitHub Actions
+
+---
+
+# 🌱 Currently Learning
+
+- AWS
+- Production DevOps
+- Distributed Systems
+- Advanced Agentic AI
+- Observability
+- Kubernetes
+
+---
+
+# 🚀 Featured Projects
 
 Coming Soon...
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 Coming Soon...
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
-Portfolio
+🌐 Portfolio: https://yashpatkar.tech
 
-LinkedIn
-
-Email
+💼 LinkedIn:
+https://linkedin.com/in/yash-patkar
