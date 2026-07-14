@@ -1,140 +1,102 @@
-<h1 align="center">Hi 👋, I'm Yash Patkar</h1>
+<p align="center">
+    <img src="./assets/banner.svg" alt="Banner"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Yash Patkar</h1>
 
 <h3 align="center">
 AI Software Engineer • Backend Engineer • Product Engineer
 </h3>
 
 <p align="center">
-Building AI-powered products, scalable backend systems, and developer tools.
+Building AI-powered backend systems, autonomous agents and production-ready software.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Backend Software Engineer working on AI-first products
-- 🤖 Building AI Agents, Agentic RAG, and intelligent workflows
-- 🐍 Python & Django developer
-- ⚡ Interested in scalable backend architecture and distributed systems
-- ☁️ Currently learning AWS and production infrastructure
-- 🌍 Based in Mumbai, India
+I'm a Backend Engineer currently working on AI-powered products.
+
+I enjoy building production-grade backend systems, AI agents, internal developer tools, APIs and scalable software.
+
+### Current Focus
+
+- 🤖 AI Agents
+- 📚 Agentic RAG
+- ⚙️ Backend Architecture
+- ☁️ AWS
+- 🐳 Docker
+- 🚀 Production Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash" />
-</p>
+Python • SQL • JavaScript • Bash
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
-</p>
+Django
 
-### Databases
+Django REST Framework
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite" />
-</p>
+FastAPI
 
 ### AI
 
-- LangChain
-- LangGraph
-- OpenAI
-- Claude
-- MCP
-- Agentic RAG
+LangChain
 
-### DevOps & Cloud
+LangGraph
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions" />
-</p>
+OpenAI
 
----
+Claude
 
-# 🚀 Featured Projects
+Model Context Protocol (MCP)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 AI Agent | Autonomous AI workflow | LangGraph |
-| 📚 Agentic RAG | Intelligent Retrieval System | LangChain |
-| 💬 Chat Application | Real-time messaging | Django Channels |
-| 📅 Booking Platform | Scheduling System | Django + DRF |
-| 🌐 Portfolio | Personal Website | Next.js |
+### Infrastructure
 
----
+PostgreSQL
 
-# 📖 Currently Learning
+Redis
 
-- AWS
-- Agentic RAG
-- Model Context Protocol (MCP)
-- Distributed Systems
-- AI Product Engineering
-- Docker & Cloud Deployment
+Docker
+
+AWS
+
+Linux
+
+GitHub Actions
 
 ---
 
-# 🎯 2026 Goals
+## 💼 Experience
 
-- Build production-ready AI products
-- Contribute to Open Source
-- Master AWS for backend systems
-- Build scalable SaaS applications
-- Grow as an AI Software Engineer
+**Junior Backend Engineer**
+
+Working on production AI-powered software using Python, Django, REST APIs and modern AI frameworks.
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashPatkar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatkar&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+Coming Soon...
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YashPatkar&theme=github-dark&hide_border=true"/>
-
-</p>
+Coming Soon...
 
 ---
 
-# 📈 Contribution Graph
+## 📫 Connect
 
-<p align="center">
+Portfolio
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashPatkar&theme=github-dark"/>
+LinkedIn
 
-</p>
-
----
-
-# 📫 Connect With Me
-
-- 🌐 Website: https://yashpatkar.tech
-- 💼 LinkedIn: https://linkedin.com/in/yash-patkar
-- 📧 Email: your-email@example.com
-
----
-
-<p align="center">
-
-<i>
-Building AI-powered software with Python, Django, and modern AI frameworks.
-</i>
-
-</p>
+Email
