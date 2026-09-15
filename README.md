@@ -6,18 +6,6 @@ Currently, I work on production software where AI-assisted development, backend 
 
 I enjoy solving backend problems, designing clean architectures, and building tools that improve developer productivity.
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YashPatkar&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 🌐 Website
