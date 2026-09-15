@@ -19,13 +19,3 @@ https://linkedin.com/in/yash-patkar
 📧 Email
 
 yash.patkar2004@gmail.com
-
----
-
-<p align="center">
-
-<i>
-"Building AI-powered products with clean architecture and scalable backend systems."
-</i>
-
-</p>
