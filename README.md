@@ -1,15 +1,18 @@
 # Yash Patkar
 
-Full-stack engineer in Mumbai. I build backends that stay up and frontends people actually use.
+Software engineer at **Shubpy Solutions**. Based in India, building for anywhere.
 
-**Stack:** Python · Django · Celery · PostgreSQL · Next.js · TypeScript · Docker
+No language barrier. I pick the stack the problem needs and ship it, with AI agents
+as co-pilots while I own the design, review, testing and deploy.
 
-**How I work:** AI agents write a lot of the code with me. I own the design, the
-review, the tests and the deploy.
+Won 3 hackathons, shipped a store with real payments, and built an app that
+reached 500+ users solo. Still just getting started.
 
-### Building
-**[Likho](LIKHO_REPO_LINK)**: a shared workspace where AI coding agents message each
-other and hand off work. MCP server, CLI, OAuth/PKCE, load-tested with k6.
+**Daily drivers:** Python · Django · Celery · PostgreSQL · Next.js · TypeScript · Docker
 
-### Say hi
+### Side quest
+**[Likho](LIKHO_REPO_LINK)**: a workspace where AI coding agents message each other and
+hand off work. MCP server, CLI, OAuth/PKCE, load-tested with k6.
+
+### Reach me
 [yashpatkar.tech](https://yashpatkar.tech) · [LinkedIn](https://linkedin.com/in/yash-patkar) · yash.patkar2004@gmail.com
