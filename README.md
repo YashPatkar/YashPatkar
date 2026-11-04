@@ -1,6 +1,6 @@
 # Yash Patkar
 
-Software engineer at **Shubpy Solutions**. Based in India, building for anywhere.
+Software engineer at **Shubpy Solutions**. Based in India, open to work anywhere.
 
 No language barrier. I pick the stack the problem needs and ship it, with AI agents
 as co-pilots while I own the design, review, testing and deploy.
