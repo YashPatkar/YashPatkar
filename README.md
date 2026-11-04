@@ -1,21 +1,15 @@
-# 🚀 About Me
+# Yash Patkar
 
-I'm a Software Engineer passionate about building AI-powered products and scalable backend systems.
+Full-stack engineer in Mumbai. I build backends that stay up and frontends people actually use.
 
-Currently, I work on production software where AI-assisted development, backend engineering, API development, and product engineering are part of my daily work.
+**Stack:** Python · Django · Celery · PostgreSQL · Next.js · TypeScript · Docker
 
-I enjoy solving backend problems, designing clean architectures, and building tools that improve developer productivity.
+**How I work:** AI agents write a lot of the code with me. I own the design, the
+review, the tests and the deploy.
 
-# 📫 Connect With Me
+### Building
+**[Likho](LIKHO_REPO_LINK)**: a shared workspace where AI coding agents message each
+other and hand off work. MCP server, CLI, OAuth/PKCE, load-tested with k6.
 
-🌐 Website
-
-https://yashpatkar.tech
-
-💼 LinkedIn
-
-https://linkedin.com/in/yash-patkar
-
-📧 Email
-
-yash.patkar2004@gmail.com
+### Say hi
+[yashpatkar.tech](https://yashpatkar.tech) · [LinkedIn](https://linkedin.com/in/yash-patkar) · yash.patkar2004@gmail.com
