@@ -1,18 +1,10 @@
-# Yash Patkar
 
-Software engineer at **Shubpy Solutions**. Based in India, open to work anywhere.
+Building products. Based in India, open to opportunities worldwide.
 
-No language barrier. I pick the stack the problem needs and ship it, with AI agents
-as co-pilots while I own the design, review, testing and deploy.
+Currently working at **Shubpy Solutions**, building and shipping software across different domains for clients including **[RoboKidz](https://robokidz.co.in)**, **[Vryno](https://vryno.com)**, **[Target Integration](https://www.targetintegration.com)**, and others.
 
-Won 3 hackathons, shipped a store with real payments, and built an app that
-reached 500+ users solo. Still just getting started.
+Interested in **Software Engineering** · **AI** · **Agentic Systems** · **DevOps**
 
-**Daily drivers:** Python · Django · Celery · PostgreSQL · Next.js · TypeScript · Docker
+### Connect
 
-### Side quest
-**[Likho](LIKHO_REPO_LINK)**: a workspace where AI coding agents message each other and
-hand off work. MCP server, CLI, OAuth/PKCE, load-tested with k6.
-
-### Reach me
-[yashpatkar.tech](https://yashpatkar.tech) · [LinkedIn](https://linkedin.com/in/yash-patkar) · yash.patkar2004@gmail.com
+[yashpatkar.tech](https://yashpatkar.tech) · [LinkedIn](https://linkedin.com/in/yash-patkar) · [Email](mailto:yash.patkar2004@gmail.com)
